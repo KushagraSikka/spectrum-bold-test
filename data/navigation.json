@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "HAMSIKA CHINTAKUNTLA",
+    "href": "#hero"
+  },
+  "menuItems": [
+    {
+      "text": "Home",
+      "href": "#hero"
+    },
+    {
+      "text": "About",
+      "href": "#about"
+    },
+    {
+      "text": "Experience",
+      "href": "#experience"
+    },
+    {
+      "text": "Projects",
+      "href": "#work"
+    },
+    {
+      "text": "Skills",
+      "href": "#skills"
+    },
+    {
+      "text": "Contact",
+      "href": "#contact"
+    }
+  ]
+}

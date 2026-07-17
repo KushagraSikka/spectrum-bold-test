@@ -1,0 +1,230 @@
+{
+  "sectionTitle": "Portfolio",
+  "subtitle": "A selection of featured projects",
+  "projects": [
+    {
+      "title": "fraud-detection-in-python",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "demo": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "links": {
+        "github": "https://github.com/hamsikavarma/fraud-detection-in-python",
+        "demo": "https://github.com/hamsikavarma/fraud-detection-in-python",
+        "live": "https://github.com/hamsikavarma/fraud-detection-in-python"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "time-series-forecasting-python",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "demo": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "links": {
+        "github": "https://github.com/hamsikavarma/time-series-forecasting-python",
+        "demo": "https://github.com/hamsikavarma/time-series-forecasting-python",
+        "live": "https://github.com/hamsikavarma/time-series-forecasting-python"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "creditcardfrauddetection-mlops",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "demo": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "links": {
+        "github": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+        "demo": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+        "live": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "mutual-fund-analysis-dashboard-python-powerbi",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "demo": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "links": {
+        "github": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+        "demo": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+        "live": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "supply-chain-dashboard",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "demo": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "links": {
+        "github": "https://github.com/hamsikavarma/supply-chain-dashboard",
+        "demo": "https://github.com/hamsikavarma/supply-chain-dashboard",
+        "live": "https://github.com/hamsikavarma/supply-chain-dashboard"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "call-center-performance-analytics-dashboard",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "demo": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "links": {
+        "github": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+        "demo": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+        "live": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "demo": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "links": {
+        "github": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+        "demo": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+        "live": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "hr-analytics-kpi-dashboard-using-power-bi",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+      "demo": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+      "links": {
+        "github": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+        "demo": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+        "live": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    }
+  ]
+}
